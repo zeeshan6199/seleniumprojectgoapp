@@ -1,0 +1,5 @@
+tests/IpccTest.class
+tests/LoginTest.class
+tests/IpcaTest.class
+tests/BomReportTest.class
+tests/AmlReportTest.class

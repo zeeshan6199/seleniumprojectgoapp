@@ -1,0 +1,11 @@
+<suite name="MySuite">
+  <test name="MyTests">
+    <classes>
+      <class name="tests.LoginTest"/>
+      <class name="tests.IpcaTest"/>
+      <class name="tests.IpccTest"/>
+      <class name="tests.AmlReportTest"/>
+      <class name="tests.BomReportTest"/>
+    </classes>
+  </test>
+</suite>
